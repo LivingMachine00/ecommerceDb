@@ -1,4 +1,5 @@
-  "prodotti": [
+{
+    "prodotti": [
     {
       "nome": "prodotto1",
       "descrizione": "Descrizione del prodotto 1"
@@ -12,4 +13,5 @@
       "descrizione": "Descrizione del prodotto 3"
     }
   ]
+}
 
