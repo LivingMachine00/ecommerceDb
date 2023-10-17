@@ -11,6 +11,10 @@
     {
       "nome": "prodotto3",
       "descrizione": "Descrizione del prodotto 3"
+    },
+    {
+      "nome": "prodotto4",
+      "descrizione": "Descrizione del prodotto 4"
     }
   ]
 }
